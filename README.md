@@ -27,7 +27,7 @@ Secara umum, kita bisa melihat bahwa:
 * beberapa kolom, seperti `Working Date`, `BI Status`, `Year`, `Month`, `Customer Since`, `FY` dan `Customer ID` memiliki huruf Kapital dalam penulisannya, sehingga akan dirubah menjadi huruf kecil semua dan diberikan separator (_) pada kolom yang memiliki 2 kata.
 * Urutan kolom akan diatur ulang untuk mempermudah proses analisis selanjutnya.
 
-##### **3.2.2 Data Formatting**<br>
+##### **3.2.2 Missing Value**<br>
 Secara garis besar:  
 * *missing value* di kolom `Unnamed: 21`,  `Unnamed: 22`,  `Unnamed: 23`,  `Unnamed: 24`, dan `Unnamed: 25` sebanyak **100%**.
 * *missing value* untuk kolom lain sebesar > **44%** sedangkan pada kolom `sales_comission_code` di angka **57%**.
