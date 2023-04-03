@@ -12,6 +12,6 @@ Sebagai seorang *data analyst*, kita akan mencoba menjawab pertanyaan berikut:
 
 ## **3. Data**
 
-dataset ini didapat dari [di sini](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset)
+dataset ini didapat dari [di sini](https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset)<br>
 Mengacu dari informasi Kaggle bahwa Kumpulan data *pakistan's Largest E-Commerce Dataset* ini dikumpulkan sebagai bagian dari studi penelitian (Sensus Startup) di Startup E-Commerce Pakistan antara Januari 2016 hingga Desember 2018.
 dataset ini memiliki catatan transaksi dari bulan Maret 2016 - Agustus 2018.
