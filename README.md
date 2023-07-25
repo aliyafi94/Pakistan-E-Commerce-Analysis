@@ -1,4 +1,7 @@
-# Modul-2-Data-Analytics_Pakistan_E-Commerce_Datasets
+# Data-Analytics_Pakistan_E-Commerce_Datasets
+
+Project ini sebagai bahan penilaian Capstone Purwadhika Data Science
+
 ## **1. Latar Belakang**
 E-Commerce didefinisikan sebagai proses jual dan beli barang atau jasa termasuk produk digital melalui transaksi elektronik menggunakan jaringan internet atau media yang berbasis komputer lainnya (State Bank of Pakistan). Pertumbuhan E-Commerce di Pakistan sangat cepat dalam beberapa tahun terakhir. menurut Forbes, Pakistan berada di Top 5 Negara dengan laju pertumbuhan pasar freelance tercepat di Dunia mengalahkan India dan Russia yang memiliki jumlah penduduk yang jauh lebih besar ([E-Commerce Policy of Pakistan, hal. 29](https://www.commerce.gov.pk/wp-content/uploads/2019/11/e-Commerce_Policy_of_Pakistan_Web.pdf)). Dengan kondisi tersebut, Perusahaan akan melakukan study dengan data yang sudah diperoleh yang akan dianalisa supaya dapat memanfaatkan kondisi E-Commerce yang akan naik di masa-masa mendatang. 
 
